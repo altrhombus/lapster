@@ -1,6 +1,8 @@
 # Lapster
 Welcome! Lapster is an application designed to streamline the process of searching for LAPS (Local Administrator Password Solution) information across various platforms. This application is particulary useful for IT administrators and security professionals who need to manage and secure a wide range of devices.
 
+![image0](https://github.com/altrhombus/lapster/assets/5846422/f9c3bbd2-915b-4eae-89d0-ce10d4670bd7)
+
 Lapster helps you search across all LAPS sources:
  - **Legacy LAPS** clients (Windows Server 2016 and older) that store their password information in Active Directory in the `ms-Mcs-AdmPwd` AD attribute
  - **Windows LAPS** clients (Windows Server 2019 and newer, Windows 10, Windows 11) that store their password information in Active Directory in the `msLAPS-*` attributes
